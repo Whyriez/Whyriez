@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on `freelance` Web & Mobile Development.
 - 🌱 I’m currently learning `Kotlin` and `JavaScript`
-- 👯 I’m looking to collaborate with BackEnd Developers.
+- 👯 I’m looking to collaborate with Mobile & BackEnd Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - ⚙️ I use daily: `.js`, `.kt`, `.cs`, `.css`
 - 💬 Ping me about **kotlin**, **mobile**, **development**
