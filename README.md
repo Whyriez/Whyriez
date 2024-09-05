@@ -33,7 +33,25 @@
 <p align="center">
     <img
                 src="https://raw.githubusercontent.com/Whyriez/Whyriez/5f54bf5c88fa9c1717d70363950d27750dafb69a/kotlin-1.svg"
-                alt="javascript"
+                alt="kotlin"
+                width="50"
+                height="50"
+        />
+    <img
+                src="https://raw.githubusercontent.com/Whyriez/Whyriez/0b55ce05952834e60d727a90f55d712791dedffd/c--4.svg"
+                alt="csharp"
+                width="50"
+                height="50"
+        />
+    <img
+                src="https://raw.githubusercontent.com/Whyriez/Whyriez/31b72d3fc5f2c94849ca74d0c2b69d9f1f249660/laravel-2.svg"
+                alt="laravel"
+                width="50"
+                height="50"
+        />
+    <img
+                src="https://raw.githubusercontent.com/Whyriez/Whyriez/31b72d3fc5f2c94849ca74d0c2b69d9f1f249660/codeigniter.svg"
+                alt="codeigniter"
                 width="50"
                 height="50"
         />
