@@ -32,6 +32,12 @@
 
 <p align="center">
     <img
+                src="https://raw.githubusercontent.com/Whyriez/Whyriez/5f54bf5c88fa9c1717d70363950d27750dafb69a/kotlin-1.svg"
+                alt="javascript"
+                width="50"
+                height="50"
+        />
+    <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript"
                 width="50"
