@@ -99,7 +99,7 @@
 <td width="50%" align="center">
 
 
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whyriez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=whyriez&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=whyriez&theme=chartreuse-dark&hide_border=false" /> 
 </td>
