@@ -18,7 +18,7 @@
 - 🤔 Looking for guidance on **Open Source Contribution**
 - ⚙️ Daily drivers: `.js` `.kt` `.cs`
 - 💬 Ask me about **Kotlin**, **Mobile Development**, and **Web Development**
-- 📫 Reach me at **nursuma004@gmail.com**
+- 📫 Reach me at **alimsuma@limapp.my.id**
 
 <br/>
 
