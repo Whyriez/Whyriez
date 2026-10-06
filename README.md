@@ -1,81 +1,109 @@
 <div align="center">
 
+<sub>WEB · MOBILE · BACKEND · AUTOMATION</sub>
+
 # Hi, I'm Alim Suma 👋
 
 **Web & Mobile Developer**
 
-I enjoy building practical applications, backend systems, automation, and experimenting with technologies that turn ideas into useful products.
+I build practical applications, connect systems, and turn ideas into useful products.
 
-[![Email](https://img.shields.io/badge/Email-alimsuma%40limapp.my.id-38C2FF?style=flat-square&logo=gmail&logoColor=white)](mailto:alimsuma@limapp.my.id)
-[![GitHub](https://img.shields.io/badge/GitHub-whyriez-181717?style=flat-square&logo=github)](https://github.com/whyriez)
+<p>
+  <a href="mailto:alimsuma@limapp.my.id"><img src="https://img.shields.io/badge/Email-alimsuma%40limapp.my.id-131f32?style=flat-square&amp;labelColor=1b2b43&amp;logo=gmail&amp;logoColor=75e5c3" alt="Email Alim Suma at alimsuma@limapp.my.id" /></a>
+  <a href="https://github.com/Whyriez"><img src="https://img.shields.io/badge/GitHub-Whyriez-131f32?style=flat-square&amp;labelColor=1b2b43&amp;logo=github&amp;logoColor=baa6ff" alt="Whyriez on GitHub" /></a>
+</p>
+
+[About](#about) · [Toolkit](#toolkit) · [Projects](#projects) · [GitHub Insights](#github-insights) · [Activity](#activity)
 
 </div>
 
----
+## About
 
-## 👨‍💻 About Me
+I work on web and mobile applications, with an interest in backend systems, APIs, integrations, and automation. I enjoy making tools that solve everyday problems and exploring technologies that help me build better products.
 
-- 💻 Focused on **Web & Mobile Development**
-- 📱 Interested in **Mobile Development**, **Backend Systems**, and **Automation**
-- 🌱 Currently exploring **Kotlin**, **JavaScript**, and modern development tools
-- ⚙️ Mostly working with `.kt`, `.js`, `.ts`, and `.cs`
-- 🧩 I enjoy building APIs, integrations, tools, and applications that solve real problems
-- 🤝 Open to collaboration and interesting projects
-- 📫 Professional contact: **[alimsuma@limapp.my.id](mailto:alimsuma@limapp.my.id)**
+- **Building with:** Kotlin, JavaScript, TypeScript, and C#.
+- **Exploring:** Kotlin, JavaScript, and modern development tools.
+- **Collaboration:** Open to interesting projects and useful ideas.
 
----
-
-## 🛠 Tech Stack
+## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,cs,laravel,nodejs,html,css,mysql,git&perline=11" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Kotlin-131f32?style=flat-square&amp;logo=kotlin&amp;logoColor=baa6ff" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-131f32?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-131f32?style=flat-square&amp;logo=javascript&amp;logoColor=75e5c3" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-131f32?style=flat-square&amp;logo=typescript&amp;logoColor=81baff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-131f32?style=flat-square" alt="C#" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-131f32?style=flat-square&amp;logo=laravel&amp;logoColor=ef9dbb" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-131f32?style=flat-square&amp;logo=nodedotjs&amp;logoColor=75e5c3" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML-131f32?style=flat-square&amp;logo=html5&amp;logoColor=f1cf87" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-131f32?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/MySQL-131f32?style=flat-square&amp;logo=mysql&amp;logoColor=81baff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-131f32?style=flat-square&amp;logo=git&amp;logoColor=baa6ff" alt="Git" />
 </p>
 
----
+## Projects
 
-## 📊 GitHub Overview
+A few highlights from my public repositories.
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=whyriez&show_icons=true&theme=tokyonight&hide_border=true" alt="Alim's GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=whyriez&layout=compact&theme=tokyonight&hide_border=true" alt="Alim's Top Languages" />
+  <a href="https://github.com/Whyriez?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.limapp.my.id/github/repos.svg?theme=light&amp;v=design2" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.limapp.my.id/github/repos.svg?theme=dark&amp;v=design2" />
+      <img width="100%" src="https://stats.limapp.my.id/github/repos.svg?theme=dark&amp;v=design2" alt="Alim Suma's public repository highlights, ranked by stars and recent activity" />
+    </picture>
+  </a>
 </p>
 
----
+## GitHub Insights
 
-## 📈 Contribution Activity
+An overview of my public profile and the languages behind my projects.
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whyriez&theme=tokyo-night&hide_border=true&area=true" alt="Alim's GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.limapp.my.id/github/overview.svg?theme=light&amp;v=design2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.limapp.my.id/github/overview.svg?theme=dark&amp;v=design2" />
+    <img width="100%" src="https://stats.limapp.my.id/github/overview.svg?theme=dark&amp;v=design2" alt="Alim Suma's GitHub overview: public repositories, followers, stars, forks, following, and contributions" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.limapp.my.id/github/languages.svg?theme=light&amp;v=design2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.limapp.my.id/github/languages.svg?theme=dark&amp;v=design2" />
+    <img width="100%" src="https://stats.limapp.my.id/github/languages.svg?theme=dark&amp;v=design2" alt="Programming language distribution by code bytes across Alim Suma's public repositories, excluding forks and archives" />
+  </picture>
+</p>
+
+## Activity
+
+My contribution rhythm over the past year, from monthly trends to daily activity.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.limapp.my.id/github/activity.svg?theme=light&amp;v=design2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.limapp.my.id/github/activity.svg?theme=dark&amp;v=design2" />
+    <img width="100%" src="https://stats.limapp.my.id/github/activity.svg?theme=dark&amp;v=design2" alt="Monthly GitHub contributions over the past 365 calendar days; the first and last months may be partial" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.limapp.my.id/github/contributions.svg?theme=light&amp;v=design2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.limapp.my.id/github/contributions.svg?theme=dark&amp;v=design2" />
+    <img width="100%" src="https://stats.limapp.my.id/github/contributions.svg?theme=dark&amp;v=design2" alt="Daily GitHub contribution calendar for the past 365 calendar days" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.limapp.my.id/github/streak.svg?theme=light&amp;v=design2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.limapp.my.id/github/streak.svg?theme=dark&amp;v=design2" />
+    <img width="100%" src="https://stats.limapp.my.id/github/streak.svg?theme=dark&amp;v=design2" alt="Current contribution streak, longest streak within the displayed year, and active days" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=whyriez&theme=tokyonight&hide_border=true" alt="Alim's GitHub Streak" />
-</p>
-
----
-
-## 📉 Profile Analytics
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyriez&theme=tokyonight&animation=draw" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whyriez&theme=tokyonight&animation=load" alt="Repositories per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whyriez&theme=tokyonight&animation=load" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whyriez&theme=tokyonight&animation=rise" alt="GitHub Summary Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whyriez&theme=tokyonight&utcOffset=8&animation=rise" alt="Productive Time" />
-</p>
-
----
-
-## 🧭 More GitHub Metrics
-
-<p align="center">
-  <img width="90%" src="https://metrics.lecoq.io/whyriez?template=classic&config.timezone=Asia%2FMakassar" alt="GitHub Metrics" />
+  <sub>Live GitHub data · SVG cards powered by my own <a href="https://stats.limapp.my.id/github/overview.svg?v=design2">Cloudflare Worker</a></sub>
 </p>
 
 ---
@@ -84,8 +112,10 @@ I enjoy building practical applications, backend systems, automation, and experi
 
 ### Let's build something useful.
 
-[GitHub](https://github.com/whyriez) · [Email](mailto:alimsuma@limapp.my.id)
+Have a project in mind? I'd love to hear about it.
 
-<sub>© 2026 Alim Suma</sub>
+[Email](mailto:alimsuma@limapp.my.id) · [GitHub](https://github.com/Whyriez)
+
+<sub>Alim Suma · Web & Mobile Developer</sub>
 
 </div>
