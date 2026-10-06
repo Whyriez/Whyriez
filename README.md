@@ -102,10 +102,6 @@ My contribution rhythm over the past year, from monthly trends to daily activity
   </picture>
 </p>
 
-<p align="center">
-  <sub>Live GitHub data · SVG cards powered by my own <a href="https://stats.limapp.my.id/github/overview.svg?v=design2">Cloudflare Worker</a></sub>
-</p>
-
 ---
 
 <div align="center">
